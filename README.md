@@ -4,8 +4,6 @@ Projeto desenvolvido durante a aula de Desenvolvimento para Plataformas Móveis 
 
 ## 🤝 Desenvolvedor
 
-Projeto desenvolvido por:
-
 <table>
   <tr>
     <td align="center">
