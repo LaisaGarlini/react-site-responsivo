@@ -3,7 +3,7 @@ import React from 'react';
 const ResumoProfissional: React.FC = () => {
   return (
     <section id="resumo-profissional" className="flex items-center justify-center flex-col min-h-[80vh] w-full p-4">
-      <span className='text-2xl font-medium fixed top-24 md:top-20 sm:top-16'>Meu resumo profissional</span>
+      <span className='text-2xl font-medium mb-8 sm:mb-6'>Meu resumo profissional</span>
       <div className='w-4/5 p-3 shadow-xl my-4 rounded-lg bg-marrom-claro2'>
         <span className='text-xl font-semibold'>Vexta Systems</span>
         <br />
